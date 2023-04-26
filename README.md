@@ -3,16 +3,15 @@
 
 
 
-# Hola! 👋 Welcome to my code shop #
+# Hola! 👋 Welcome to my code space #
 
 [<img src="https://cdn.iconscout.com/icon/free/png-512/free-javascript-2752148-2284965.png?f=avif&w=256" alt="javascript" width="100">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img src="https://cdn.iconscout.com/icon/free/png-512/free-react-3-1175109.png?f=avif&w=256" alt="golang" width="100">](https://legacy.reactjs.org/docs/getting-started.html)
 [<img src="https://cdn-icons-png.flaticon.com/512/6132/6132219.png" alt="ruby" width="100">](https://ruby-doc.org/)
 [<img src="https://cdn.iconscout.com/icon/free/png-512/free-rubyonrails-2752082-2284899.png?f=avif&w=256" alt="rails" width="100">](https://guides.rubyonrails.org/)  
 
+[<img src="https://cdn.iconscout.com/icon/free/png-512/free-linkedin-162-498418.png?f=avif&w=256" alt="linkedIn" width="65">](https://www.linkedin.com/in/alexthelecky1875273/)
 [<img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="Gmail" width="65">](mailto:mralexanderlecky@gmail.com)
-<img src="https://cdn.iconscout.com/icon/free/png-512/free-google-maps-5336104-4497685.png?f=avif&w=256" alt="Map" width="65">[Location](geo:"40.7580, 73.9855")
-[<img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="Gmail" width="65">](mailto:mralexanderlecky@gmail.com)  
 
 
 
