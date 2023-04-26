@@ -11,8 +11,8 @@
 [<img src="https://cdn.iconscout.com/icon/free/png-512/free-rubyonrails-2752082-2284899.png?f=avif&w=256" alt="rails" width="100">](https://guides.rubyonrails.org/)  
 
 [<img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="Gmail" width="65">](mailto:mralexanderlecky@gmail.com)
-[<img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="Gmail" width="65">](mailto:mralexanderlecky@gmail.com)
-[<img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="Gmail" width="65">](mailto:mralexanderlecky@gmail.com)
+<img src="https://cdn.iconscout.com/icon/free/png-512/free-google-maps-5336104-4497685.png?f=avif&w=256" alt="Map" width="65">[Location](geo:"40.7580, 73.9855")
+[<img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="Gmail" width="65">](mailto:mralexanderlecky@gmail.com)  
 
 
 
