@@ -5,10 +5,21 @@
 
 # Hola! 👋 Welcome to my code space #
 
+
+## My name is Alex! 😃 
+## I'm from New York City 🍎
+### I code primarily in Javascript but am also a major fan of Ruby. I love simplicity and finding unique solutions/approaches to problems.
+
+### Before coding, I taught English in Moscow, Russia for several years. I enjoyed my time there immensely and hope to go back one day. For now coding is the ship I'm sailing and eager to take on bigger projects.
+
+### Feel free to reach out to me at my email below.
+
+## Thanks!
+
 [<img src="https://cdn.iconscout.com/icon/free/png-512/free-javascript-2752148-2284965.png?f=avif&w=256" alt="javascript" width="100">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img src="https://cdn.iconscout.com/icon/free/png-512/free-react-3-1175109.png?f=avif&w=256" alt="golang" width="100">](https://legacy.reactjs.org/docs/getting-started.html)
 [<img src="https://cdn-icons-png.flaticon.com/512/6132/6132219.png" alt="ruby" width="100">](https://ruby-doc.org/)
-[<img src="https://cdn.iconscout.com/icon/free/png-512/free-rubyonrails-2752082-2284899.png?f=avif&w=256" alt="rails" width="100">](https://guides.rubyonrails.org/)  
+[<img src="https://cdn.iconscout.com/icon/free/png-512/free-rubyonrails-2752082-2284899.png?f=avif&w=256" alt="rails" width="100">](https://guides.rubyonrails.org/) 
 
 [<img src="https://cdn.iconscout.com/icon/free/png-512/free-linkedin-162-498418.png?f=avif&w=256" alt="linkedIn" width="65">](https://www.linkedin.com/in/alexthelecky1875273/)
 [<img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="Gmail" width="65">](mailto:mralexanderlecky@gmail.com)
