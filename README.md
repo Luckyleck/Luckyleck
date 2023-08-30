@@ -24,6 +24,10 @@
 [<img src="https://cdn.iconscout.com/icon/free/png-512/free-linkedin-162-498418.png?f=avif&w=256" alt="linkedIn" width="65">](https://www.linkedin.com/in/alexthelecky1875273/)
 [<img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="Gmail" width="65">](mailto:mralexanderlecky@gmail.com)
 
+---
+For an adventure in sound, check out my playlist
+[here](https://luckyleck.github.io/mymusic/) 🎶
+
 
 
 
@@ -43,4 +47,4 @@
 Template
 [Aleksey-Voko](https://github.com/Aleksey-Voko) -->
 
-Last Edited on: 16/11/2021
+<!-- Last Edited on: 16/11/2021 -->
