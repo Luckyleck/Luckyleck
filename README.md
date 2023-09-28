@@ -91,18 +91,14 @@
 
 <table>
   <tr>
-    <td>
     <td align="center">
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luckyleck&show_icons=true&locale=en&layout=compact" alt="luckyleck" />
+      <img align="left" height="300" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=luckyleck&show_icons=true&locale=en&layout=compact" alt="luckyleck" />
     </td>
-  </td>
-  <td>
     <td align="center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=luckyleck&show_icons=true&locale=en" alt="luckyleck" />
+      <img align="center" height="300" width="100%" src="https://github-readme-stats.vercel.app/api?username=luckyleck&show_icons=true&locale=en" alt="luckyleck" />
     </td>
-  </td>
     <td align="center">
-      <img src="https://streak-stats.demolab.com?user=luckyleck&theme=vue&card_width=300&hide_total_contributions=true&hide_longest_streak=true" alt='my streak' />
+      <img height="300" width="100%" src="https://streak-stats.demolab.com?user=luckyleck&theme=vue&card_width=300&hide_total_contributions=true&hide_longest_streak=true" alt='my streak' />
     </td>
   </tr>
 </table>
