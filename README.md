@@ -91,11 +91,16 @@
 
 <table>
   <tr>
+    <td>
     <td align="center">
-      <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=luckyleck&rank=-C,-B,-D,-?" alt="luckyleck" />
-      </a>
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luckyleck&show_icons=true&locale=en&layout=compact" alt="luckyleck" />
     </td>
+  </td>
+  <td>
+    <td align="center">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=luckyleck&show_icons=true&locale=en" alt="luckyleck" />
+    </td>
+  </td>
     <td align="center">
       <img src="https://streak-stats.demolab.com?user=luckyleck&theme=vue&card_width=300&hide_total_contributions=true&hide_longest_streak=true" alt='my streak' />
     </td>
@@ -134,11 +139,9 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luckyleck&show_icons=true&locale=en&layout=compact" alt="luckyleck" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luckyleck&show_icons=true&locale=en" alt="luckyleck" /></p>
-
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luckyleck&" alt="luckyleck" /></p> -->
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=luckyleck&rank=SECRET,-C,-B,-D,-?" alt="luckyleck" />
+</a>
 
 For an adventure in sound, check out my playlist
 [here](https://luckyleck.github.io/mymusic/) 🎶
