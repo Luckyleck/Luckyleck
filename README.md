@@ -89,21 +89,32 @@
 
 ---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luckyleck&rank=-C,-B,-D,-?" alt="luckyleck" /></a> </p>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=luckyleck&rank=-C,-B,-D,-?" alt="luckyleck" />
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com?user=luckyleck&theme=vue&card_width=300&hide_total_contributions=true&hide_longest_streak=true" alt='my streak' />
+    </td>
+  </tr>
+</table>
+
 
 <table>
     <tr>
         <td width='45%'>
-            <p align='left'>🔭 I’m currently focused on <strong><em>building bots to automate web browsing activities</em></strong></p>
-            <p> 🔭 I’m currently focused on <strong><em>building bots to automate web browsing activities*</strong></em></p>
-            <p> 🌱 I’m currently learning <strong><em>Python and Java</strong></em></p>
-            <p> 👯 I’m looking to collaborate on <strong><em>a Rails/React full stack project</strong></em></p>
-            <p> 👨‍💻 All of my projects are available at <strong><em><a href='alexlecky.netlify.app'>alexlecky.netlify.app</a></em></strong>
+            <p align='left'>◆ 🔭 I’m currently focused on <strong><em>building bots to automate web browsing activities</em></strong></p>
+            <p>◆ 🌱 I’m currently learning <strong><em>Python and Java</strong></em></p>
+            <p>◆ 👯 I’m looking to collaborate on <strong><em>a Rails/React full stack project</strong></em></p>
+            <p>◆ 👨‍💻 All of my projects are available at <strong><em><a href='alexlecky.netlify.app'>alexlecky.netlify.app</a></em></strong>
             </p>
-            <p> 📫 How to reach me <strong><em>mralexanderlecky@gmail.com</strong></em></p>
-            <p> 📄 Download my <strong><em><a href='./AlexanderLeckyResumeUpdated.pdf'>Resume</a></em></strong></p>
-            <p> 💬 Ask me about <strong><em>my love for ruby, any historical topic, chess, and the almighty AI</strong></em> 🤖</p>
-            <p> ⚡ Fun fact, Russians love sour cream and mayonnaise</p>
+            <p>◆ 📫 How to reach me <strong><em>mralexanderlecky@gmail.com</strong></em></p>
+            <p>◆ 📄 Download my <strong><em><a href='./AlexanderLeckyResumeUpdated.pdf'>Resume</a></em></strong></p>
+            <p>◆ 💬 Ask me about <strong><em>my love for ruby, any historical topic, chess, and the almighty AI</strong></em> 🤖</p>
+            <p>◆ ⚡ Fun fact, Russians love sour cream and mayonnaise</p>
         </td>
         <td width="40%">
             <p align='center'>I code primarily in <em><span style="color: yellow;">JavaScript</span></em> but am also a major fan of <em><span style="color: red;">Ruby</span></em>. I love simplicity and finding unique solutions/approaches to problems.</p>
