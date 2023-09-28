@@ -106,8 +106,9 @@
             <p> ⚡ Fun fact, Russians love sour cream and mayonnaise</p>
         </td>
         <td width="40%">
-            <h3 align='center'>I code primarily in <em><span style="color: yellow;">JavaScript</span></em> but am also a major fan of <em><span style="color: red;">Ruby</span></em>. I love simplicity and finding unique solutions/approaches to problems.</h3>
-            <h3 align='center'>Before coding, I taught English in Moscow, Russia for several years. I enjoyed my time there immensely and hope to visit again one day. For now, coding is the ship I'm sailing and I am eager to take on bigger projects. Feel free to reach out to me at my email below. <strong>Thanks!</strong>
+            <p align='center'>I code primarily in <em><span style="color: yellow;">JavaScript</span></em> but am also a major fan of <em><span style="color: red;">Ruby</span></em>. I love simplicity and finding unique solutions/approaches to problems.</p>
+            <h2></h2>
+            <p align='center'>Before coding, I taught English in Moscow, Russia for several years. I enjoyed my time there immensely and hope to visit again one day. For now, coding is the ship I'm sailing and I am eager to take on bigger projects. Feel free to reach out to me at my email below. <strong>Thanks!</strong></p>
         </td>
     </tr>
 </table>
