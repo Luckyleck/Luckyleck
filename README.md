@@ -91,12 +91,12 @@
 
 <table align="center">
   <tr>
-    <td align="center">
+<!--     <td align="center">
       <img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=luckyleck&show_icons=true&locale=en&layout=compact" alt="luckyleck" />
-    </td>
-    <td align="center">
+    </td> -->
+<!--     <td align="center">
       <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=luckyleck&show_icons=true&locale=en" alt="luckyleck" />
-    </td>
+    </td> -->
 <!--     <td align="center">
       <img width="100%" src="https://streak-stats.demolab.com?user=luckyleck&theme=vue&card_width=300&hide_total_contributions=true&hide_longest_streak=true" alt='my streak' />
     </td> -->
@@ -107,7 +107,7 @@
 <table>
     <tr>
         <td width='45%'>
-            <p align='left'>◆ 🔭 I’m currently focused on <strong><em>building bots to automate web browsing activities</em></strong></p>
+            <p align='left'>◆ 🔭 I’m currently focused on <strong><em>building multiplay games with socket.io</em></strong></p>
             <p>◆ 🌱 I’m currently learning <strong><em>Python and Java</strong></em></p>
             <p>◆ 👯 I’m looking to collaborate on <strong><em>a Rails/React full stack project</strong></em></p>
             <p>◆ 👨‍💻 All of my projects are available at <strong><em><a href='https://alexlecky.netlify.app'>alexlecky.netlify.app</a></em></strong>
