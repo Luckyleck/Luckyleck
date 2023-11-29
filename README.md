@@ -114,7 +114,7 @@
             </p>
             <p>◆ 📫 How to reach me <strong><em>mralexanderlecky@gmail.com</strong></em></p>
             <p>◆ 📄 Download my <strong><em><a href='./AlexanderLeckyResumeUpdated.pdf'>Resume</a></em></strong></p>
-            <p>◆ 💬 Ask me about <strong><em>my love for ruby, any historical topic, chess, and the almighty AI</strong></em> 🤖</p>
+            <p>◆ 💬 Ask me about <strong><em>my love for ruby, any historical topic, chess, or the almighty AI</strong></em> 🤖</p>
             <p>◆ ⚡ Fun fact, Russians love sour cream and mayonnaise</p>
         </td>
         <td width="40%">
