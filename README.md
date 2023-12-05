@@ -26,7 +26,7 @@
 
 --- -->
 
-<img alt='Banner' src='./ShipBanner.gif' width='2000' height='350'/>
+<!-- <img alt='Banner' src='./ShipBanner.gif' width='2000' height='350'/> -->
 
 <h1 align="center">Hola 👋 I'm Alex</h1>
 <h3 align="center">A New York based Full Stack Developer with a flair for creativity.</h3>
