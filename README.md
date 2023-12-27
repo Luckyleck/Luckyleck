@@ -8,7 +8,7 @@
 
 ## My name is Alex! 😃 
 ## I'm from New York City 🍎
-### I code primarily in Javascript but am also a major fan of Ruby. I love simplicity and finding unique solutions/approaches to problems.
+### I code primarily in Javascript but am also a major fan of Ruby and Rails. I love simplicity and finding unique solutions/approaches to problems.
 
 ### Before coding, I taught English in Moscow, Russia for several years. I enjoyed my time there immensely and hope to visit again one day. For now, coding is the ship I'm sailing and I am eager to take on bigger projects.
 
