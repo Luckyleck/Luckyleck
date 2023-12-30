@@ -115,7 +115,7 @@
             <p>◆ 📫 How to reach me <strong><em>mralexanderlecky@gmail.com</strong></em></p>
             <p>◆ 📄 Download my <strong><em><a href='./AlexanderLeckyResumeUpdated.pdf'>Resume</a></em></strong></p>
             <p>◆ 💬 Ask me about <strong><em>my love for ruby, any historical topic, chess, or the almighty AI</strong></em> 🤖</p>
-            <p>◆ ⚡ Fun fact, Russians love sour cream and mayonnaise</p>
+            <p>◆ ⚡ Fun fact, Bees can sting other bees</p>
         </td>
         <td width="40%">
             <p align='center'>I code primarily in <em><span style="color: yellow;">JavaScript</span></em> but am also a major fan of <em><span style="color: red;">Ruby</span></em>. I love simplicity and finding unique solutions/approaches to problems.</p>
