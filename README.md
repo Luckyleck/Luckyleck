@@ -139,8 +139,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=luckyleck&rank=SECRET,-C,-B,-D,-?" alt="luckyleck" />
 </a>
 
-For an adventure in sound, check out my playlist
-[here](https://luckyleck.github.io/mymusic/) 🎶
 
 
 
