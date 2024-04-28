@@ -108,7 +108,7 @@
     <tr>
         <td width='45%'>
             <p align='left'>◆ 🔭 I’m currently focused on <strong><em>working as a full stack developer</em></strong></p>
-            <p>◆ 🌱 I’m currently learning <strong><em>WebGL and THREE.js to create purchasable 3d visuals, and C programming</strong></em></p>
+            <p>◆ 🌱 I’m currently learning <strong><em>TypeScript and Python</strong></em></p>
             <p>◆ 👯 I’m looking to collaborate on <strong><em>a Rails/React full stack project</strong></em></p>
             <p>◆ 👨‍💻 All of my projects are available at <strong><em><a href='https://alexlecky.netlify.app'>alexlecky.netlify.app</a></em></strong>
             </p>
