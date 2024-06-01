@@ -89,21 +89,6 @@
 
 ---
 
-<table align="center">
-  <tr>
-<!--     <td align="center">
-      <img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=luckyleck&show_icons=true&locale=en&layout=compact" alt="luckyleck" />
-    </td> -->
-<!--     <td align="center">
-      <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=luckyleck&show_icons=true&locale=en" alt="luckyleck" />
-    </td> -->
-<!--     <td align="center">
-      <img width="100%" src="https://streak-stats.demolab.com?user=luckyleck&theme=vue&card_width=300&hide_total_contributions=true&hide_longest_streak=true" alt='my streak' />
-    </td> -->
-  </tr>
-</table>
-
-
 <table>
     <tr>
         <td width='45%'>
