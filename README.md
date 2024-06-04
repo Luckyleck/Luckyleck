@@ -100,7 +100,7 @@
             <p>◆ 📫 How to reach me <strong><em>mralexanderlecky@gmail.com</strong></em></p>
             <p>◆ 📄 Download my <strong><em><a href='./AlexanderLeckyResumeUpdated.pdf'>Resume</a></em></strong></p>
             <p>◆ 💬 Ask me about <strong><em>my love for ruby, any historical topic, chess, or the almighty AI</strong></em> 🤖</p>
-            <p>◆ ⚡ Fun fact, Bees can sting other bees</p>
+            <p>◆ ⚡ Ready to work, ready to achieve</p>
         </td>
         <td width="40%">
             <p align='center'>I code primarily in <em>JavaScript</em> but am also a major fan of <em>Ruby</em>. I love simplicity and finding unique solutions/approaches to problems.</p>
