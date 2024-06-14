@@ -110,7 +110,7 @@
     </tr>
 </table>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Feel free to reach out to me!</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/alexthelecky1875273/">
     <img src="https://cdn.iconscout.com/icon/free/png-512/free-linkedin-162-498418.png" alt="LinkedIn" width="65">
