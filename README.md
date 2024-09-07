@@ -99,7 +99,7 @@
             </p>
             <p>◆ 📫 How to reach me <strong><em>mralexanderlecky@gmail.com</strong></em></p>
             <p>◆ 📄 Download my <strong><em><a href='./AlexanderLeckyResumeUpdated.pdf'>Resume</a></em></strong></p>
-            <p>◆ 💬 Ask me about <strong><em>my love for ruby, any historical topic, chess, or the almighty AI</strong></em> 🤖</p>
+            <p>◆ 💬 Ask me about <strong><em>my love for ruby, any historical topic, and anything else under the sun</strong></em> 🤖</p>
             <p>◆ ⚡ Ready to work, ready to achieve</p>
         </td>
         <td width="40%">
