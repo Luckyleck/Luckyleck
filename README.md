@@ -103,7 +103,7 @@
             <p>◆ ⚡ Ready to work, ready to achieve</p>
         </td>
         <td width="40%">
-            <p align='center'>I code primarily in <em>JavaScript</em> but am also a major fan of <em>Ruby</em>. I love simplicity and finding unique solutions/approaches to problems.</p>
+            <p align='center'>I code primarily in <em>JavaScript</em> but am also a major fan of <em>Ruby and Python</em>. I love simplicity and finding unique solutions/approaches to problems.</p>
             <h2></h2>
             <p align='center'>Before coding, I taught English in Moscow, Russia for several years. I enjoyed my time there immensely and hope to visit again one day. For now, coding is the ship I'm sailing and I am eager to take on bigger projects. Feel free to reach out to me at my email below. <strong>Thanks!</strong></p>
         </td>
