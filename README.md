@@ -29,7 +29,7 @@
 <!-- <img alt='Banner' src='./ShipBanner.gif' width='2000' height='350'/> -->
 
 <h1 align="center">Hola 👋 I'm Alex</h1>
-<h3 align="center">A New York based Full Stack Developer with a flair for creativity.</h3>
+<h3 align="center">A Full Stack Developer with a flair for creativity.</h3>
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70"/>
