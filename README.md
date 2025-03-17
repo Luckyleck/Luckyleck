@@ -72,8 +72,8 @@
     <tr>
         <td width='45%'>
             <p align='left'>◆ 🔭 I’m currently focused on <strong><em>working as a full stack developer</em></strong></p>
-            <p>◆ 🌱 I’m currently learning <strong><em>Next 14</strong></em></p>
-            <p>◆ 👯 I’m looking to collaborate on <strong><em>on a full stack web application or a tool related to game modding</strong></em></p>
+            <p>◆ 🌱 I’m currently learning <strong><em>Next 15</strong></em></p>
+            <p>◆ 👯 I’m looking to collaborate on <strong><em>on a full stack web application</strong></em></p>
             <p>◆ 👨‍💻 All of my projects are available at <strong><em><a href='https://alexlecky.com'>alexlecky.com</a></em></strong>
             </p>
             <p>◆ 📫 How to reach me <strong><em>mralexanderlecky@gmail.com</strong></em></p>
