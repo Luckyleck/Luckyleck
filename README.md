@@ -71,20 +71,20 @@
 <table>
     <tr>
         <td width='45%'>
-            <p align='left'>◆ 🔭 I’m currently focused on <strong><em>working as a full stack developer</em></strong></p>
-            <p>◆ 🌱 I’m currently learning <strong><em>Next 15</strong></em></p>
-            <p>◆ 👯 I’m looking to collaborate on <strong><em>on a full stack web application</strong></em></p>
+            <p align='left'>◆ 🔭 I'm currently working as a <strong><em>Full Stack Developer</em></strong></p>
+            <p>◆ 🌱 I'm currently learning <strong><em>React Server Components and AI integration in web apps</strong></em></p>
+            <p>◆ 👯 I'm looking to collaborate on <strong><em>open source TypeScript libraries and modern React projects</strong></em></p>
             <p>◆ 👨‍💻 All of my projects are available at <strong><em><a href='https://alexlecky.com'>alexlecky.com</a></em></strong>
             </p>
             <p>◆ 📫 How to reach me <strong><em>mralexanderlecky@gmail.com</strong></em></p>
             <p>◆ 📄 Download my <strong><em><a href='./AlexanderLeckyResumeUpdated.pdf'>Resume</a></em></strong></p>
-            <p>◆ 💬 Ask me about <strong><em>my love for ruby, any historical topic, and anything else under the sun</strong></em> 🤖</p>
-            <p>◆ ⚡ Ready to work, ready to achieve</p>
+            <p>◆ 💬 Ask me about <strong><em>monorepo architecture, component libraries, or my adventures teaching abroad</strong></em> 🤖</p>
+            <p>◆ ⚡ Pioneering elegant solutions for complex problems</p>
         </td>
         <td width="40%">
-            <p align='center'>I code primarily in <em>JavaScript</em> but am also a major fan of <em>Ruby and Python</em>. I love simplicity and finding unique solutions/approaches to problems.</p>
+            <p align='center'>My tech stack centers around <em>React, TypeScript, and Tailwind CSS</em>, though I still enjoy working with <em>Ruby and Python</em> when the opportunity arises. I'm passionate about clean code architecture and optimized user experiences.</p>
             <h2></h2>
-            <p align='center'>Before coding, I taught English in Moscow, Russia for several years. I enjoyed my time there immensely and hope to visit again one day. For now, coding is the ship I'm sailing and I am eager to take on bigger projects. Feel free to reach out to me at my email below. <strong>Thanks!</strong></p>
+            <p align='center'>My background in teaching English in Moscow gave me unique perspectives on communication and problem-solving that I bring to software development. Since transitioning to tech in 2023, I've focused on creating responsive, performant web applications that deliver exceptional user experiences. Always open to connecting with fellow developers and potential collaborators! <strong>Reach out anytime.</strong></p>
         </td>
     </tr>
 </table>
